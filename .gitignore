@@ -1,0 +1,11 @@
+# Data Hub — build outputs
+hub/docs/
+hub/site/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+*.log
